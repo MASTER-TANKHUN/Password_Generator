@@ -45,7 +45,6 @@ h2:after {
     margin: 10px auto 0;
 }
 
-/* Range input styling */
 #length {
     width: 100%;
     margin: 15px 0 25px;
@@ -83,7 +82,7 @@ label {
     font-weight: bold;
 }
 
-/* Checkbox styling */
+
 input[type="checkbox"] {
     -webkit-appearance: none;
     width: 18px;
@@ -123,7 +122,7 @@ input[type="checkbox"]:checked:after {
     align-items: center;
 }
 
-/* Button styling */
+
 button {
     background: #3498db;
     color: white;
@@ -151,7 +150,7 @@ button:active {
     box-shadow: 0 3px 10px rgba(52, 152, 219, 0.2);
 }
 
-/* Password display area */
+
 #password {
     background-color: #f8f9fa;
     border: 1px solid #e9ecef;
@@ -181,7 +180,6 @@ button:active {
     font-weight: normal;
 }
 
-/* Responsive adjustments */
 @media (max-width: 480px) {
     .container {
         padding: 20px;
