@@ -120,7 +120,6 @@ input[type="checkbox"]:checked:after {
     display: flex;
     align-items: center;
 }
-
 button {
     background: #3498db;
     color: white;
@@ -147,7 +146,6 @@ button:active {
     transform: translateY(0);
     box-shadow: 0 3px 10px rgba(52, 152, 219, 0.2);
 }
-
 #password {
     background-color: #f8f9fa;
     border: 1px solid #e9ecef;
